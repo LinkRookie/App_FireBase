@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989697791931",
+    "project_id": "fir-ea0de",
+    "storage_bucket": "fir-ea0de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989697791931:android:6fb0607e5bd83fcde0169e",
+        "android_client_info": {
+          "package_name": "com.carpetaandroid.app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989697791931-h340gi78o6kofmqc7n9rnbob3a3rf1hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyAUNI_qL7Wlmg06ovo02GMSW9kmW83ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989697791931-h340gi78o6kofmqc7n9rnbob3a3rf1hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
