@@ -1,12 +1,12 @@
 package com.carpetaandroid.app_firebase;
 
-public class agenda {
+public class Agenda {
     int id;
     String nombre;
     String correo;
     String telefono;
 
-    public agenda(int id, String nombre, String correo, String telefono) {
+    public Agenda(int id, String nombre, String correo, String telefono) {
         this.id = id;
         this.nombre = nombre;
         this.correo = correo;
@@ -46,7 +46,5 @@ public class agenda {
     }
 
     @Override
-    public String toString() {
-        return "agenda{" +"id=" + id +", nombre='" + nombre + '\'' +", correo='" + correo + '\'' +", telefono='" + telefono + '\'' +'}';
-    }
+    public String toString(){return nombre +" "+ telefono;}
 }
